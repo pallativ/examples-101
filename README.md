@@ -1,1 +1,1 @@
-# examples-101
+# Examples for both .NET, JavaScript and Java
